@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Why I decided to learn Web Development"
+date:   2017-03-14 08:40:13 +0000
+---
+
+
+There are a lot of answers to this question.  As with anything, life is complicated, and there are often many things that come together to cause us to take action in our lives.  I was originally introduced to programming in my high school in 12th grade.  I believe the language we were using was Java.  After two semesters of that I went to University and initially started as an engineering major.  In my first year I learned Matlab and Fortran.  After Fall 2010 was over, I changed my major to History and Political Science (to pursue an education degree), and didn't touch programming since, until September of 2016.
+
+From August 2014 to August 2016 I worked for two years as an English teacher and private tutor in Taiwan, and from my work experience I realized that if I was going to stay in Taiwan and continue this teaching career path, I would need to create my own tutoring business, and or, get more certification to be a teacher in an accredited institution.  But I also realized just how much repetition and time goes into teaching.  It is almost impossible to begin leveraging your time and teaching ability unless you develop your own courses and materials to sell.  Most of conventional teaching in educational institutions is BEHIND THE TIMES.  It is often outdated, ineffective, and far too linear and grades focused.  I saw how effective technology, computers, and coding was in empowering students to be better learners and workers.  I decided that in order to become a better educator, as well as to progress my career I was going to have to learn computer programming and other technical skills.
+
+In September I began working as a personal assistant and driver for a missionary and pastor who was visually impaired from multiple retinal detachments (who also happened to be my dad haha). We started out on a trip to check in with most of his missionary supporters and supporting churches across the USA, and give them an update of what his plans were and what work he had been doing recently.
+On this trip I quickly began to notice one very important trend.  The majority of my father's missionary supporters and friends were in tech fields.  Programmers, project managers for tech startups, Data Scientists, Business managers, Web designers, you name it.  I had a great opportunity to talk with all of these different people about their careers and interests.  I also had a chance to talk to my cousin who had two years previously attended and completed a web development bootcamp and been working as a programmer and web designer for years.  I asked him if he thought I was smart enough to do programming and web design and without any hesitation he replied, "Oh yeah, sure." 
+	
+As I was meeting all of these wonderful people, with so many years of experience in so many different areas of the market, I began to think back on how much I enjoyed learning to code.  My high school programming class was first thing in the morning, and I am NOT a morning person.  I would get to the classroom half asleep, and grumpy.  Then I would sit down, take a deep breath and turn on my computer, and nod to my friends Mark and Graham sitting on either side of me.  Minutes later when class started, I would begin to wake up and focus on the interesting and sometimes mind boggling task of learning to code.  The 45 minutes would fly by, and I would always leave class with a feeling of wanting to stay and work longer.
+
+I could see the writing on the wall.  Coding, tech, and engineering skills were only increasing in their demand.  All of the best conventional schools were beginning to offer coding electives earlier and more.  Everyone has a website.  Coding was empowering, easily applicable to any situation, and necessary for better understanding how to leverage all of our ubiquitous computer processing power.
+
+So I decided, I would start an online program.  I wanted to dive into coding intensely like I had wanted to in high school.  Now, without all of the distractions of other classes, electives, era-curriculars, and homework, I would be able to focus on working on coding.  I am excited about continuing to work and learn about coding, and to meet and interact with the people working as students, teachers, and professionals.
+
+
